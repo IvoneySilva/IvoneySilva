@@ -1,14 +1,16 @@
-<!--título-->
-<div id="user-content-toc">
-  <ul align="center">
-    <summary><h1 style="display: inline-block">Hello World</h1></summary>
-</div>
+
+
+<!-- GIF -->
+<p align="left">
+  <img align="center" src="https://github.com/IvoneySilva/IvoneySilva/blob/main/download.gif" alt="Imagem">
+</p>
+
 
 <!-- Presentation -->
 <p>
   Olá 👋, sou Ivoney Silva! Apaixonado por python e estudante de Data Science no Brasil.
 
-  - 🌱 Atualmente estou me especializando em Ciência de Dados Business, Business intelligence, BigData e Inteligência Artificial e 2ª Licenciatura em Letras Português/Inglês <img align="center" alt="html5" src="https://img.shields.io/badge/Edx-193A3E?style=for-the-badge&logo=edx&logoColor=white" />
+  - 🌱 Atualmente estou me especializando em Ciência de Dados Business, Business intelligence, BigData e Inteligência Artificial e 2ª Licenciatura em Letras Português/Inglês.
 
   - 🔭 Estou em buscando oportunidade na área de programação Home Officce. Meu objetivo é trabalhar com IA e Machine Learning.
 </p>
@@ -38,13 +40,6 @@
 - [Nome do projet](linkdoprojeto)
 - [Nome do projeto](linkdoprojeto)
 
-<!-- GIF -->
-<p align="left">
-  <img align="center" src="(https://github.com/IvoneySilva/IvoneySilva/assets/37705199/de9135e2-1b3c-427b-8465-c3e8ca0ccc13)" alt="Imagem">
-</p>
-
-![download](https://github.com/IvoneySilva/IvoneySilva/assets/37705199/de9135e2-1b3c-427b-8465-c3e8ca0ccc13)
-
 
 ## 🔥 Skills
 <!-- Skills: Linguagens de programação -->
@@ -60,7 +55,6 @@
   <div style="flex-basis: 48%;">
     <h3>Tools & Frameworks</h3>
     <img align="center" alt="VScode" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
-    <img align="center" alt="AWS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg">
     <img align="center" alt="Jupyter" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg">
     <img align="center" alt="Chris-AWS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
     <img align="center" alt="Bash" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg">
