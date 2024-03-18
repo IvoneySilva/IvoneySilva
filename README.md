@@ -8,9 +8,10 @@
 
 <!-- Presentation -->
 <p>
-  Olá 👋, sou Ivoney Silva! Apaixonado por python e estudante de Data Science no Brasil.
+  Olá 👋, sou Ivoney Silva! Especialista em Letramento Digital, Apaixonado pela Linguagem de Programação Python, Mercado Financeiro de Opções Binárias. Dev Robot IQ Option.
+  Sou fissurado e entusiasta por conhecimento!!!👽
 
-  - 🌱 Atualmente estou me especializando em Ciência de Dados Business, Business intelligence, BigData e Inteligência Artificial e 2ª Licenciatura em Letras Português/Inglês.
+  - 🌱 Atualmente estou me especializando em Ciência de Dados Business, Business intelligence, BigData e Inteligência Artificial e Cursando 2ª Licenciatura em Letras Português/Inglês.
 
   - 🔭 Estou em buscando oportunidade na área de programação Home Officce. Meu objetivo é trabalhar com IA e Machine Learning.
 </p>
@@ -18,10 +19,24 @@
 <!-- Dropdown -->
 <details>
   <summary>👨‍💻 Mais sobre mim</summary>
+ 💬 Professor há mais de 23 anos e Pedagogo há mais de  06 anos;
+Cursando 2ª Licenciatura em Letras Português/Ingles;
+Especialista em Letramento Digital; Universidade do estado do Amazonas – UEA.
+Cursando Pós-graduação em Business Intelligence, Big Data e Inteligência Artificial na Faculdade Focus;
+Cursando Pós-graduação em Ciência de Dados na Faculdade Focus;
+Cursando Python Impressionador   Instituição Hashtag Treinamentos;
+Cursando Formação Python Developer  Instituição  DIO;
+Técnico em meio Ambiente;
+Trader há mais de 06 anos;
+Um dos pioneiros no Brasil operar com Estratégias automatizados (Robôs Traders) AutoTrade;
+Opera com Robôs traders há mais de 04 anos;
+CEO do Robô Trader Metatron e Robô Trader Metatron Versão Fênix
+CEO do  Gerador de Sinais Metatron;
+CEO da Empresa Extreme Corporation (Especializada na criação de Robôs  com Licenças para Trader empreendedores) – Robôs para Revenda na Corretora Iq Option.
+CEO Canal Quero Ser Trader (Canal voltado ao Ensino de trader Manual e Automático )
 
-  - 💬 I am 26 years old, currently living in Brazil. I have fluency in English and have experience with SQL, Python, Data Analysis, Data visualization, and Machine Learning. I'm also a content creator on YouTube since 2018, which helped me develop important skills such as creativity, communication, marketing, analytical capability, community and social media management.
-
-  - ⚡ I enjoy reading, whether it's a good book, manga, or comics, as well as watching movies and playing games! I believe that our personal interests contribute to a more refined perception of things and problem-solving. \o/
+ \o/
+ 
 </details>
 
 <!-- Links -->
@@ -35,10 +50,9 @@
 
 <!-- Portfolio -->
 ## Portfolio:
-- [Nome do projet](linkdoprojeto)
-- [Nome do projet](linkdoprojeto)
-- [Nome do projet](linkdoprojeto)
-- [Nome do projeto](linkdoprojeto)
+- [Professor-PDf](https://github.com/IvoneySilva/professor-pdf)
+- [Robo_Trader-Metatron_IA](https://github.com/IvoneySilva/robo_trader-metatron_ia)
+
 
 
 ## 🔥 Skills
