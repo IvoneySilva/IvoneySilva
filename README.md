@@ -18,7 +18,7 @@
 
 <!-- Dropdown -->
 <details>
-  <summary>👨‍💻 Cique aqui para saber mais sobre mim</summary>
+  <summary>😜 Cique aqui para saber mais sobre mim! 👈</summary>
  💬 Professor há mais de 23 anos e Pedagogo há mais de  06 anos;
 Cursando 2ª Licenciatura em Letras Português/Ingles;
 Especialista em Letramento Digital; Universidade do estado do Amazonas – UEA.
