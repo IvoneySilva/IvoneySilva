@@ -18,7 +18,7 @@
 
 <!-- Dropdown -->
 <details>
-  <summary>👨‍💻 Mais sobre mim</summary>
+  <summary>👨‍💻 Cique aqui para saber mais sobre mim</summary>
  💬 Professor há mais de 23 anos e Pedagogo há mais de  06 anos;
 Cursando 2ª Licenciatura em Letras Português/Ingles;
 Especialista em Letramento Digital; Universidade do estado do Amazonas – UEA.
@@ -50,7 +50,7 @@ CEO Canal Quero Ser Trader (Canal voltado ao Ensino de trader Manual e Automáti
 
 <!-- Portfolio -->
 ## Portfolio:
-- [Professor-PDf](https://github.com/IvoneySilva/professor-pdf)
+- [Professor-PDF](https://github.com/IvoneySilva/professor-pdf)
 - [Robo_Trader-Metatron_IA](https://github.com/IvoneySilva/robo_trader-metatron_ia)
 
 
