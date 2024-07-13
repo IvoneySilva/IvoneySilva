@@ -8,7 +8,7 @@
 
 <!-- Presentation -->
 <p>
-  Olá 👋, sou Ivoney Silva! Especialista em Letramento Digital, Apaixonado pela Linguagem de Programação Python, Mercado Financeiro de Opções Binárias. Dev Robot IQ Option.
+  Olá 👋, sou Ivoney Silva! Mestrando em Tecnologias Emergentes em educação, Especialista em Letramento Digital, Ciências de Dados, Business Inteligence, BigData e Inteligência Artificial, Apaixonado pela Linguagem de Programação Python, Mercado Financeiro de Opções Binárias. Dev Robot IQ Option.
   Sou fissurado e entusiasta por conhecimento!!!👽
 
   - 🌱 Atualmente estou me especializando em Ciência de Dados Business, Business intelligence, BigData e Inteligência Artificial e Cursando 2ª Licenciatura em Letras Português/Inglês.
