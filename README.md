@@ -11,7 +11,7 @@
   Olá 👋, sou Ivoney Silva! Mestrando em Tecnologias Emergentes em educação, Especialista em Letramento Digital, Ciências de Dados, Business Inteligence, BigData e Inteligência Artificial, Apaixonado pela Linguagem de Programação Python, Mercado Financeiro de Opções Binárias. Dev Robot IQ Option.
   Sou fissurado e entusiasta por conhecimento!!!👽
 
-  - 🌱 Atualmente estou me especializando em Ciência de Dados Business, Business intelligence, BigData e Inteligência Artificial e Cursando 2ª Licenciatura em Letras Português/Inglês.
+  - 🌱 Atualmente estou Cursando Mestrado em Tecnologias Emergentes em educação , Análise e Desenvolvimento de Sistemas e 2ª Licenciatura em Letras Português/Inglês.
 
   - 🔭 Estou em buscando oportunidade na área de programação Home Officce. Meu objetivo é trabalhar com IA e Machine Learning.
 </p>
